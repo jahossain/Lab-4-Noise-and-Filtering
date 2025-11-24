@@ -6,7 +6,7 @@ Next, I applied linear filtering techniques, including the average filter and th
 
 Finally, I compared MSE after filtering. The median filter produced the lowest error for salt-and-pepper noise, while the Gaussian filter performed best for Gaussian noise. These numerical results matched what could be seen visually. Overall, the experiment shows that different noise types require different filtering strategies, and adaptive filtering methods can further improve detail preservation in images.
 
-![image](
+![image](https://github.com/jahossain/Lab-4-Noise-and-Filtering/blob/main/Screenshot%202025-11-24%20225855.png)
 
 
 

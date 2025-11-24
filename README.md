@@ -10,4 +10,4 @@ Finally, I compared MSE after filtering. The median filter produced the lowest e
 
 
 
-![image](
+![image](https://github.com/jahossain/Lab-4-Noise-and-Filtering/blob/main/Screenshot%202025-11-24%20225902.png)

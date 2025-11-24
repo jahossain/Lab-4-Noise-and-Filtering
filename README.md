@@ -5,3 +5,9 @@ Below is a brief explanation of my Lab 4 work on noise and filtering in MATLAB. 
 Next, I applied linear filtering techniques, including the average filter and the Gaussian filter. Both filters smooth the image and help reduce noise, but they also blur edges because they rely on neighborhood averaging. To address edge preservation, I used a median filter, which replaces each pixel with the median value of its surrounding region. This method works especially well for salt-and-pepper noise and maintains edges better than linear filters.
 
 Finally, I compared MSE after filtering. The median filter produced the lowest error for salt-and-pepper noise, while the Gaussian filter performed best for Gaussian noise. These numerical results matched what could be seen visually. Overall, the experiment shows that different noise types require different filtering strategies, and adaptive filtering methods can further improve detail preservation in images.
+
+![image](
+
+
+
+![image](
